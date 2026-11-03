@@ -1,6 +1,6 @@
 {
- "name": "Painel MBFT",
- "short_name": "MBFT",
+ "name": "MULTAS MBFT",
+ "short_name": "MULTAS MBFT",
  "description": "Fichas do Manual Brasileiro de Fiscalização de Trânsito: código, enquadramento, quando autuar, medidas e valor da multa.",
  "lang": "pt-BR",
  "start_url": "./",

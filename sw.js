@@ -1,5 +1,5 @@
-// Service worker do Painel MBFT. Versão gerada pelo build: 0344b5d7d2
-const CACHE = 'mbft-0344b5d7d2';
+// Service worker do Painel MBFT. Versão gerada pelo build: 9c96600a1e
+const CACHE = 'mbft-9c96600a1e';
 const ARQUIVOS = ['./', 'index.html', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png'];
 
